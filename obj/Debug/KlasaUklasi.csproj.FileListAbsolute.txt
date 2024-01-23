@@ -1,0 +1,8 @@
+C:\Users\Ucenik\Documents\Iva\KlasaUklasi\bin\Debug\KlasaUklasi.exe.config
+C:\Users\Ucenik\Documents\Iva\KlasaUklasi\bin\Debug\KlasaUklasi.exe
+C:\Users\Ucenik\Documents\Iva\KlasaUklasi\bin\Debug\KlasaUklasi.pdb
+C:\Users\Ucenik\Documents\Iva\KlasaUklasi\obj\Debug\KlasaUklasi.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\Iva\KlasaUklasi\obj\Debug\KlasaUklasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\Iva\KlasaUklasi\obj\Debug\KlasaUklasi.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\Iva\KlasaUklasi\obj\Debug\KlasaUklasi.exe
+C:\Users\Ucenik\Documents\Iva\KlasaUklasi\obj\Debug\KlasaUklasi.pdb
